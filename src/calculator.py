@@ -1,1 +1,2 @@
-print("Calculator Application")
+Class Calculator:
+    pass
