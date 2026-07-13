@@ -1,5 +1,8 @@
 # GitHub Practice
 
 This is my first Git and GitHub project.
-##Updated by Dilsha
-This line belomgs to feature
+
+
+## GitHub Pull Request Demo
+
+This change is created to learn GitHub Pull Requests.
