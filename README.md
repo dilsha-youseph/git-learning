@@ -2,6 +2,9 @@
 
 This is my first Git and GitHub project.
 
-##Updated by Rahul -- Version 2
-##Updated by Dilsha
+
+
+## GitHub Pull Request Demo
+
+This change is created to learn GitHub Pull Requests.
 
